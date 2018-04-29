@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SlottedAloha:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SlottedAloha_jar</output-path>
+    <root id="archive" name="SlottedAloha.jar">
+      <element id="module-output" name="SlottedAloha" />
+    </root>
+  </artifact>
+</component>
